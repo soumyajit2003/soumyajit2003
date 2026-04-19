@@ -10,7 +10,7 @@
 
 I'm **Soumyajit Hui**, CEO of [Labops Meditechnology](https://labops.in/) — building intelligent solutions at the intersection of healthcare and artificial intelligence.
 
-- Pursuing **MS in AI/ML** at **Stanford University**
+- Pursuing **MS in AI/ML** at **Stanford**
 - Leading product and engineering at Labops Meditechnology
 - Focused on applied machine learning, NLP, and computer vision in medtech
 - Based in India
