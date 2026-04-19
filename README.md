@@ -1,14 +1,7 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=CEO+%40+Labops+Meditechnology;MS+in+AI%2FML+%7C+Stanford)](https://git.io/typing-svg)
-
-</div>
-
----
-
 ### About Me
 
-I'm **Soumyajit Hui**, CEO of [Labops Meditechnology](https://labops.in/) — building intelligent solutions at the intersection of healthcare and artificial intelligence.
+I'm **Soumyajit Hui**, CEO of [Labops Meditechnology](https://labops.in/) — Building the intelligence, powering modern
+Healthtech Systems. 
 
 - Pursuing **MS in AI/ML** at **Stanford**
 - Leading product and engineering at Labops Meditechnology
